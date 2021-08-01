@@ -4,12 +4,13 @@ tar -zcvf backup.tar.gz .
 
 -z gzip  
 -c Create
--f file(filename)
 -v verbose
+-f file(filename)
 
 # 압축 풀기
 
 -z gzip  
 -x eXtract
--f file(filename)
 -v verbose
+-f file(filename)
+
