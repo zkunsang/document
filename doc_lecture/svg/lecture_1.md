@@ -36,3 +36,6 @@ path를 제외한 다른 자식들에 스타일이 전부 적용되었다.
 ```
 
 # transform center center
+
+# CDATA
+svg파일안에서 css를 사용할 때 xml파싱 에러가 나는것을 방지하기 위해 css를 사용
