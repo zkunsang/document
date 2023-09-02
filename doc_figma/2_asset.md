@@ -1,0 +1,2 @@
+component 원본
+instance
